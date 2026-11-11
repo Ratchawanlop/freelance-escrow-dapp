@@ -47,4 +47,4 @@
 
 ## 📄 ข้อมูล Smart Contract (อ้างอิง)
 * **Network:** Sepolia Testnet
-* **Contract Address:** `[ใส่ Address ของ Contract ที่คุณเพิ่ง Deploy]`
+* **Contract Address:** `0xFe2f5881d47D28DE97b44C1478A5b0CE64B71F93`
