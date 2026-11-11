@@ -2,7 +2,7 @@
 
 แพลตฟอร์มระบบจ้างงานฟรีแลนซ์แบบไร้ตัวกลางที่ใช้เทคโนโลยี Smart Contract บนเครือข่าย Ethereum (Sepolia Testnet) เพื่อทำหน้าที่เป็น Escrow ล็อคเงินค่าจ้างไว้ตรงกลาง ช่วยแก้ปัญหาผู้ว่าจ้างไม่จ่ายเงิน และฟรีแลนซ์ทิ้งงาน
 
-🌐 **Live Demo (GitHub Pages):** [ใส่ URL GitHub Pages ของคุณที่นี่]
+🌐 **Live Demo (GitHub Pages):** [(https://github.com/Ratchawanlop/freelance-escrow-dapp)]
 
 ---
 
